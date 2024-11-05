@@ -5,10 +5,6 @@ Welcome to my **Projects** repository! This repository showcases a collection of
 ## Table of Contents
 - [About](#about)
 - [Project List](#project-list)
-- [Installation and Setup](#installation-and-setup)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -44,15 +40,11 @@ This repository includes two main projects that I am particularly proud of. Both
 
 ---
 
-## Installation and Setup
+##contact
+If you have any questions or feedback, feel free to reach out:
 
-To set up and run these projects locally, follow these steps:
+Email: ajrama_04@outlook.com
+GitHub: Abdallah Ajram
 
-### Prerequisites
-- **Java JDK**: Ensure Java is installed on your system.
-- **MySQL**: Install MySQL and set up the required databases.
 
-### Clone the Repository
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/AbdallahAjram/Projects.git
+Thank you 
