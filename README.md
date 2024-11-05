@@ -40,7 +40,7 @@ This repository includes two main projects that I am particularly proud of. Both
 
 ---
 
-##contact
+##Contact
 If you have any questions or feedback, feel free to reach out:
 
 Email: ajrama_04@outlook.com
