@@ -40,11 +40,11 @@ This repository includes two main projects that I am particularly proud of. Both
 
 ---
 
-##Contact
+## Contact
 If you have any questions or feedback, feel free to reach out:
 
-Email: ajrama_04@outlook.com
-GitHub: Abdallah Ajram
+- **Email**: [ajrama_04@outlook.com](mailto:ajrama_04@outlook.com)
+- **GitHub**: [Abdallah Ajram](https://github.com/AbdallahAjram)
 
 
 Thank you 
