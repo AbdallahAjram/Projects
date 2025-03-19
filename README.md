@@ -14,7 +14,7 @@ This repository includes two main projects that I am particularly proud of. Both
 
 ## Project List
 
-### 1. [Travel Booking System](./Travel Booking System)
+### 1. [Travel Booking System](./Travel%20Booking%20System)
    - **Description**: A comprehensive desktop application that allows users to book travel tickets, view available routes, and manage their bookings. It simulates a complete booking system with a user-friendly interface and database integration.
    - **Technologies**:
      - Java (Java Swing for the GUI)
@@ -26,7 +26,7 @@ This repository includes two main projects that I am particularly proud of. Both
      - Admin interface for managing routes and availability
    - **Database Schema**: MySQL database for storing user information, routes, bookings, and administrative data.
 
-### 2. [Hotel Review System](./Hotel Review System)
+### 2. [Hotel Review System](./Hotel%20Review%20System)
    - **Description**: A hotel review management application where users can browse hotels, view reviews, and leave feedback. The system provides a centralized platform for managing reviews with a simple, effective user interface.
    - **Technologies**:
      - Java (Java Swing for the GUI)
@@ -40,11 +40,11 @@ This repository includes two main projects that I am particularly proud of. Both
 
 ---
 
-##contact
+## Contact
 If you have any questions or feedback, feel free to reach out:
 
-Email: ajrama_04@outlook.com
-GitHub: Abdallah Ajram
+- **Email**: [ajrama_04@outlook.com](mailto:ajrama_04@outlook.com)
+- **GitHub**: [Abdallah Ajram](https://github.com/AbdallahAjram)
 
 
 Thank you 
