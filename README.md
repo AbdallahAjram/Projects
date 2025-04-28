@@ -1,50 +1,97 @@
-# Projects
+Projects
+Welcome to my Projects repository! This repository showcases a collection of my Java-based and Android-based projects, with a focus on practical systems built using Java Swing, Android Studio, and MySQL databases. These projects demonstrate my skills in both mobile and desktop application development.
 
-Welcome to my **Projects** repository! This repository showcases a collection of my Java-based projects, with a focus on GUI applications created using Java Swing and MySQL databases. These projects demonstrate my skills in building desktop applications with a strong user interface and backend integration.
+Table of Contents
+About
 
-## Table of Contents
-- [About](#about)
-- [Project List](#project-list)
-- [Contact](#contact)
+Project List
 
----
+Find My Dorm Android Application
 
-## About
-This repository includes two main projects that I am particularly proud of. Both projects use Java Swing for the graphical user interface and MySQL as the database to manage data efficiently. These applications aim to provide practical solutions for real-world scenarios in travel and hospitality management.
+Travel Booking System
 
-## Project List
+Hotel Review System
 
-### 1. [Travel Booking System](./Travel%20Booking%20System)
-   - **Description**: A comprehensive desktop application that allows users to book travel tickets, view available routes, and manage their bookings. It simulates a complete booking system with a user-friendly interface and database integration.
-   - **Technologies**:
-     - Java (Java Swing for the GUI)
-     - MySQL (for data storage)
-   - **Features**:
-     - User registration and login system
-     - Search and view available travel routes
-     - Book, cancel, and view bookings
-     - Admin interface for managing routes and availability
-   - **Database Schema**: MySQL database for storing user information, routes, bookings, and administrative data.
+Contact
 
-### 2. [Hotel Review System](./Hotel%20Review%20System)
-   - **Description**: A hotel review management application where users can browse hotels, view reviews, and leave feedback. The system provides a centralized platform for managing reviews with a simple, effective user interface.
-   - **Technologies**:
-     - Java (Java Swing for the GUI)
-     - MySQL (for data storage)
-   - **Features**:
-     - Hotel listing with ratings and reviews
-     - Ability to add, view, and delete reviews
-     - User and admin access levels
-     - Database integration to store hotel and review data
-   - **Database Schema**: MySQL database stores hotel information, user reviews, and user data.
+About
+This repository includes multiple major projects that I am particularly proud of. These projects use a variety of technologies such as Android Java, Java Swing, MySQL, and PHP. They aim to solve real-world problems in travel booking, dorm rental management, and hospitality services.
 
----
+Project List
+Find My Dorm Android Application
+Description: A complete mobile application that allows university students to find and rent dorms easily. It integrates user authentication, dorm listing management, image uploads, and filtering options based on location.
 
-## Contact
+Technologies:
+
+Android Studio (Java)
+
+MySQL (for backend database)
+
+PHP (for server-side APIs)
+
+Volley (for network communication)
+
+Glide (for image loading)
+
+Features:
+
+User registration and login (with SharedPreferences session management)
+
+Browse dorms with images, prices, and location
+
+Dynamic filtering by location
+
+Rent out new dorms (owners can list properties)
+
+Profile management: view, edit, delete personal listings
+
+Contact owners directly via in-app call integration
+
+Backend: MySQL database connected through PHP REST APIs.
+
+Travel Booking System
+Description: A comprehensive desktop application that allows users to book travel tickets, view available routes, and manage their bookings with a simple GUI and database backend.
+
+Technologies:
+
+Java (Java Swing for the GUI)
+
+MySQL (for backend data storage)
+
+Features:
+
+User registration and login system
+
+View available travel routes
+
+Book, cancel, and view travel bookings
+
+Admin dashboard to manage routes
+
+Database Schema: MySQL database storing users, routes, and booking records.
+
+Hotel Review System
+Description: A hotel review platform where users can browse hotels, add reviews, and view ratings from other users.
+
+Technologies:
+
+Java (Java Swing for the GUI)
+
+MySQL (for backend data storage)
+
+Features:
+
+View hotels and user-submitted reviews
+
+Add or delete reviews
+
+Admin vs user access control
+
+Database Schema: MySQL database containing hotel information, users, and review entries.
+
+Contact
 If you have any questions or feedback, feel free to reach out:
 
-- **Email**: [ajrama_04@outlook.com](mailto:ajrama_04@outlook.com)
-- **GitHub**: [Abdallah Ajram](https://github.com/AbdallahAjram)
+Email: ajrama_04@outlook.com
 
-
-Thank you 
+GitHub: Abdallah Ajram
