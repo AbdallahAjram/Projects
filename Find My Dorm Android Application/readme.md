@@ -9,7 +9,6 @@ Built with Android Studio (Java), MySQL, PHP, and Volley, it provides a complete
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
 - [Setup and Installation](#setup-and-installation)
 - [Future Improvements](#future-improvements)
 - [Contact](#contact)
@@ -72,15 +71,7 @@ The application uses a MySQL database and a PHP-based backend for storing and re
 
 ---
 
-## Screenshots
-
-> *(You can add screenshots if you want)*  
-> ```
-> ![Login Screen](screenshots/login_screen.png)
-> ![Dorm Listings](screenshots/dorm_listings.png)
-> ![Profile Management](screenshots/profile_management.png)
-> ```
-
+\
 ---
 
 ## Setup and Installation
@@ -94,4 +85,4 @@ The application uses a MySQL database and a PHP-based backend for storing and re
 
 1. **Clone or Download the Repository**
    ```bash
-   git clone https://github.com/yourusername/find-my-dorm.git
+   git clone https://github.com/abdallahajram/find-my-dorm.git
