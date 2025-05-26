@@ -1,10 +1,11 @@
 # Projects
 
-Welcome to my **Projects** repository! This repository showcases a collection of my Java-based and Android-based projects, with a focus on practical systems built using Java Swing, Android Studio, and MySQL databases. These projects demonstrate my skills in both mobile and desktop application development.
+Welcome to my **Projects** repository! This repository showcases a collection of my Java-based and Android-based projects, with a focus on practical systems built using Java Swing, Android Studio, Firebase, and MySQL databases. These projects demonstrate my skills in both mobile and desktop application development.
 
 ## Table of Contents
 - [About](#about)
 - [Project List](#project-list)
+  - [University Attendance System (Firebase & Android)](#university-attendance-system-firebase--android)
   - [Find My Dorm Android Application](#find-my-dorm-android-application)
   - [Travel Booking System](#travel-booking-system)
   - [Hotel Review System](#hotel-review-system)
@@ -14,11 +15,34 @@ Welcome to my **Projects** repository! This repository showcases a collection of
 
 ## About
 
-This repository includes multiple major projects that I am particularly proud of. These projects use a variety of technologies such as Android Java, Java Swing, MySQL, and PHP. They aim to solve real-world problems in travel booking, dorm rental management, and hospitality services.
+This repository includes multiple major projects that I am particularly proud of. These projects use a variety of technologies such as Android Java, Firebase, MySQL, PHP, and Java Swing. They aim to solve real-world problems like course attendance, dorm rental management, and travel systems.
 
 ---
 
 ## Project List
+
+### University Attendance System (Firebase & Android)
+**Description**: A full-featured Android application built for university faculty and administrators to manage class attendance. Includes Firebase Authentication and Firestore integration for real-time data handling and secure access.
+
+**Technologies**:
+- Android Studio (Java)
+- Firebase Authentication
+- Firebase Firestore (NoSQL)
+- RecyclerView
+
+**Features**:
+- Role-based login: Admin, Teacher, Root Admin
+- Admin Panel:
+  - Add teachers, admins, courses, and sections
+  - Auto-generates student data for assigned sections
+  - View teacher assignments and attendance logs
+- Teacher Panel:
+  - Take daily attendance (with Present/Late/Absent options)
+  - Automatically refill today's attendance if already taken
+  - View last 3 attendance records per section
+- Real-time Firestore data sync with proper UTC day tracking
+
+---
 
 ### Find My Dorm Android Application
 **Description**: A complete mobile application that allows university students to find and rent dorms easily. It integrates user authentication, dorm listing management, image uploads, and filtering options based on location.
@@ -37,7 +61,6 @@ This repository includes multiple major projects that I am particularly proud of
 - Rent out new dorms (owners can list properties)
 - Profile management: view, edit, delete personal listings
 - Contact owners directly via in-app call integration
-- Backend: MySQL database connected through PHP REST APIs.
 
 ---
 
@@ -53,7 +76,6 @@ This repository includes multiple major projects that I am particularly proud of
 - View available travel routes
 - Book, cancel, and view travel bookings
 - Admin dashboard to manage routes
-- Database Schema: MySQL database storing users, routes, and booking records.
 
 ---
 
@@ -68,7 +90,6 @@ This repository includes multiple major projects that I am particularly proud of
 - View hotels and user-submitted reviews
 - Add or delete reviews
 - Admin vs user access control
-- Database Schema: MySQL database containing hotel information, users, and review entries.
 
 ---
 
