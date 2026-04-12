@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FindMyDorm</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_rent_your_dorm">Rent your dorm</string>
+    <string name="logout">Log out</string>
+
+</resources>

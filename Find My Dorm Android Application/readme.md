@@ -84,7 +84,7 @@ The application uses a MySQL database and a PHP-based backend for storing and re
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/find-my-dorm.git
+   git clone https://github.com/AbdallahAjram/Projects.git
    ```
 
    *(Or if you already have the local project files, you can skip cloning.)*
@@ -117,4 +117,4 @@ The application uses a MySQL database and a PHP-based backend for storing and re
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
 - **Email**: ajrama_04@outlook.com
-- **GitHub**: https://github.com/yourusername
+- **GitHub**: https://github.com/AbdallahAjram
