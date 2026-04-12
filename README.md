@@ -5,7 +5,6 @@ Welcome to my **Projects** repository! This repository showcases a collection of
 ## Table of Contents
 - [About](#about)
 - [Project List](#project-list)
-  - [Find My Dorm Android Application](#find-my-dorm-android-application)
   - [Travel Booking System](#travel-booking-system)
   - [Hotel Review System](#hotel-review-system)
 - [Contact](#contact)
@@ -21,27 +20,6 @@ This repository includes multiple major projects that I am particularly proud of
 ## Projects List
 
 
----
-
-### Find My Dorm Android Application
-**Description**: A complete mobile application that allows university students to find and rent dorms easily. It integrates user authentication, dorm listing management, image uploads, and filtering options based on location.
-
-**Technologies**:
-- Android Studio (Java)
-- MySQL (for backend database)
-- PHP (for server-side APIs)
-- Volley (for network communication)
-- Glide (for image loading)
-
-**Features**:
-- User registration and login (with SharedPreferences session management)
-- Browse dorms with images, prices, and location
-- Dynamic filtering by location
-- Rent out new dorms (owners can list properties)
-- Profile management: view, edit, delete personal listings
-- Contact owners directly via in-app call integration
-
----
 
 ### Travel Booking System
 **Description**: A comprehensive desktop application that allows users to book travel tickets, view available routes, and manage their bookings with a simple GUI and database backend.
